@@ -1,6 +1,6 @@
 docker-distccd [![Docker Stats]][Docker Hub]
 ========
-Dockerized [distccd] for easy distribution..
+Dockerized [distccd] for easy distribution.
 
 Usage
 --------
