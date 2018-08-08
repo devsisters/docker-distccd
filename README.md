@@ -6,7 +6,7 @@ Usage
 --------
 ```sh
 # If you want to allow connections from 192.168.0.0/20 ...
-docker run -p3632:3632 devsisters/distccd:ubuntu-16.04 192.168.0.0/20
+docker run -d --restart=always -p3632:3632 devsisters/distccd:ubuntu-16.04 192.168.0.0/20
 ```
 
 Tags
